@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: MY APPROACH TO HELPING
-datePublished: '2016-04-16T19:17:37.611Z'
-dateModified: '2016-04-16T19:12:41.486Z'
+datePublished: '2016-04-16T19:19:27.469Z'
+dateModified: '2016-04-16T19:19:25.301Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-16-my-approach-to-helping.md
@@ -22,6 +22,8 @@ url: my-approach-to-helping/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e837f425-fa60-4197-9146-cbb79fdbfedf.jpg)
+
 MY APPROACH TO HELPING
 
 Life can sometimes overwhelm all of us and leave us wondering where to turn for answers. Our usual sources of support -- friends, family and loved ones -- might not know how to help. Or maybe they have become part of the problem. 
