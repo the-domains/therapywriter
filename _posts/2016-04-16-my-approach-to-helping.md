@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: MY APPROACH TO HELPING
-datePublished: '2016-04-16T21:19:34.032Z'
-dateModified: '2016-04-16T21:19:33.830Z'
+datePublished: '2016-04-16T21:27:36.342Z'
+dateModified: '2016-04-16T21:27:17.616Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-16-my-approach-to-helping.md
