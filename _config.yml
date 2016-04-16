@@ -1,0 +1,28 @@
+name: Therapywriter
+favicon: null
+layout_spectrum: 0.45216577872633934
+typography_spectrum: 0.7685315739363432
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6151813671458513
+  lightness: 0.7867557422723621
+  saturation: 0.14849530695937574
+  rhythmicContrast: 0.3699216975364834
+purpose: []
