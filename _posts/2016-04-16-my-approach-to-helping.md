@@ -5,18 +5,13 @@ inNav: true
 inLanguage: null
 keywords: []
 description: MY APPROACH TO HELPING
-datePublished: '2016-05-01T18:26:52.871Z'
-dateModified: '2016-04-27T18:00:06.144Z'
+datePublished: '2016-06-19T16:25:00.680Z'
+dateModified: '2016-05-26T14:29:01.728Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-16-my-approach-to-helping.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: true
 url: my-approach-to-helping/index.html
 _type: Article
